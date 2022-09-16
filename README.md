@@ -21,14 +21,14 @@ ________________________________________________________________________________
  
  ZWROT KU DRODZE DO KRESU CZASÓW 
  
- 1. Wprowadzenie 
+ '1. Wprowadzenie 
  
- Wydaje mi się, że nastał czas, aby zapytać: Dokąd zmierzasz ludzkości? I nie jest to tylko 
+Wydaje mi się, że nastał czas, aby zapytać: Dokąd zmierzasz ludzkości? I nie jest to tylko 
 kwestią polityki, filozofii, czy wiary, ale głębszego, wspólnego spojrzenia na ziemską 
 rzeczywistość. A ona daje nam swe znaki sygnalizacyjne. I to ostrzegawcze. Bo jesteśmy 
 wciąż ukierunkowywani ideologiami obiecującymi doskonałą przyszłość, a zaplątujemy się w 
 przeciwnie działające środki do jej urzeczywistnienia. Świadczą o tym właśnie wspomniane 
-znaki. 
+znaki.
 
  Czyż nie są nimi: zawężanie przedziału wolności człowieka, rosnące napięcia w stosunkach 
 międzyludzkich, usychanie wartości duchowych i zaburzenia ekologicznej równowagi globu? 
@@ -45,7 +45,8 @@ spostrzeżeniami. Będą to refleksje człowieka wierzącego, oparte na interpre
 1,28), w którym Bóg, jakże prosto, wyraził swe oczekiwania wobec ludzkości. 
 
 
- 2. Zniewolona wolność 
+
+ '2. Zniewolona wolność 
  
  Zauważmy rytm biegu wolności człowieka w dziejach. Wolności rozumianej jako zdolność 
 wyboru w prawdzie dobra lub zła, gdy wybór dobra znaczy otwarcie na wolność drugich, 
@@ -60,7 +61,7 @@ wzmogła się niegodziwość, jako wytwór wolności zła, i nastąpił potop. B
 owładnęła wszystkich (Rdz 6,12). Pozostał Noe. Powróciła prawość i wolność. Nastał czas 
 rozwoju Sumeru, Egiptu, Chin, Babilonu, Fenicji, potem czas Abrahama i Izraela, Rzymu, w 
 Afryce Etiopii, Kartaginy, w Ameryce ludów ery prekolumbijskiej. 
- 
+
  W historii tych wszystkich narodów przewija się wolność ze zniewoleniem, ale zauważmy – 
 wolność jest ich zaczynem, stopniowo zaś wyłania się samowładztwo z tendencją 
 różnorodnego ograniczania wolności społeczeństw. Ale był to proces odwracalny. Upadały 
@@ -103,11 +104,23 @@ Bożych. Dla kogo będziemy żyć? Jawi się istnienie ziejące pustką (Dn 12,1
 jeszcze przez mgłę, apokaliptyczny znak Bestii (Ap 13,16) – czip osobisty, poddający każdego 
 centralnej inwigilacji. Myśli, kroków i czynów. 
 
- To widząc nie można uniknąć pytania: Czy spodziewać się stanowczej interwencji Boga? 
-Przybliżmy kolejne znaki. 
+ Wplata się tu nieodparcie, przenikający świadomość dramatyczny znak, za jaki postrzec 
+można wojnę na Ukrainie. Wojnę, w której dążenie do bezwzględnego zniewolenia jednego 
+narodu przez drugi, inspirowane potwornym egoizmem, osiągnęło szczyt okrucieństwa i 
+zaprzeczenie godności człowieka. Narzucają się słowa Chrystusa wypowiedziane w 
+kontekście zapowiedzi Jego przyjścia: „Powstanie bowiem naród przeciw narodowi…” (Mt 
+24,7; Mk 13,8; Łk 21,10). Czy Zbawiciel miał na myśli tę wojnę? 
+
+ To rozważając nie można uniknąć pytania: Czy spodziewać się stanowczej interwencji 
+Boga? Bo choć Jezus powiedział, że „ …o dniu owym i godzinie nikt nie wie…tylko sam Ojciec” 
+(Mt 24,36), to przecież wskazał symptomy końca czasów i ostrzegł: „Tak samo i wy, kiedy 
+ujrzycie to wszystko, wiedzcie, że blisko jest, we drzwiach” (Mt 24,33). 
+
+ Przybliżmy zatem kolejne znaki. 
  
  
- 3. Stan wszechnapięcia 
+ 
+ '3. Stan wszechnapięcia 
  
  Jak wolność człowieka przekształca się współcześnie w globalne zniewolenie, tak podobnie 
 daje się postrzegać w sferze stosunków międzyludzkich – stosunków w dziejach zawsze 
@@ -156,9 +169,10 @@ odrzuceniem Boga, niesie w sobie kolejny, po zniewoleniu, znak ostrzegawczy o b�
 drodze ludzkości - niezdolność do rozładowania napięć i narastających zagrożeń. Chrystus 
 przestrzega: „Strzeżcie się, żeby was kto nie zwiódł” (Mt 24,4) w kontekście Jego przyjścia. A 
 ludzkość daje się zwieść i pogrąża w zamęcie. 
+
  
  
- 4. Posucha ducha 
+ '4. Posucha ducha 
  
  Jak wolność i formy życia zbiorowego człowieka przechodząc wahania w dziejach 
 kształtowały drogę rozwoju ludzkości, tak strona duchowa, także przemienna, nadawała 
@@ -208,6 +222,7 @@ miłości i do uwielbienia Boga. Człowiek zniewalany i uwikłany we wszechnapi�
 oszałamiany i przez nich naciskany, zapomina, jak nigdy w dziejach, o swojej duchowej 
 stronie życia i daje się wciągnąć w realizację planu tego przeniewiercy. Wierzący w Chrystusa 
 – trudniej, wyznawcy innych religii – łatwiej. Ale w skali całego świata. 
+
  Wyłaniają się w tym świetle dalsze ostrzeżenia Chrystusa, gdy pytany o znak Jego przyjścia i 
 końca świata powiedział do uczniów: „…będziecie w nienawiści u wszystkich z powodu mego 
 imienia. Wówczas wielu zachwieje się w wierze… Powstanie wielu fałszywych proroków i 
@@ -218,7 +233,8 @@ Daniela o wydźwięku apokaliptycznym: „Od czasu, gdy zostanie zniesiona codzi
 zapanuje ohyda ziejąca pustką” (Dn 12,11). 
 
 
- 5. Sygnały ziemi 
+
+ '5. Sygnały ziemi 
  
  Gdy Bóg powiedział do pierwszych ludzi aby czynili sobie ziemię poddaną (por. rozdz. 1), 
 dał równocześnie na tej ziemi wszystko co człowiekowi do życia, w każdym miejscu, 
@@ -264,12 +280,14 @@ apokaliptycznego wstrząsu? I czy można je pominąć wobec niemniej wyraźnych 
 zniewolenia, napięcia i usychania ducha? 
 
 
- 6. Refleksje 
+
+ '6. Refleksje 
  
  Bóg dał człowiekowi ziemię i przez tysiąclecia człowiek spełniał, choć z różnymi 
 zaburzeniami, Boże oczekiwania. Zaludniał ziemię i czynił ją sobie poddaną wedle wpisanych 
 w jego naturę i rozświetlanych, we właściwym czasie, Słowem Bożym praw moralnych. I 
-ludzkość szła drogami prowadzącymi do rozwoju, harmonijnie materialnego i duchowego. 
+ludzkość szła drogami prowadzącymi do rozwoju, harmonijnie materialnego i duchowego.
+
  Wszakże rozbłysły współcześnie rozwój materialny sprawił, że człowiek zerwał harmonię z 
 rozwojem ducha, więcej, począł gasić ducha i odwracać Boże prawo tworząc jego 
 przeciwieństwo. I tak w obecne dzieje wplótł się zamęt i stało się, że świat stracił z oczu Bożą 
@@ -297,4 +315,23 @@ podda się naporowi Szatana, przyjście Chrystusa może okazać się wcale nieda
 tego świadomi. 
 
 
- Leszek Kotlarski, Kraków, dn. 01.01.2022 
+ Leszek Kotlarski, Kraków, dn. 01.05.2022 
+ 
+ 
+ 
+ Postscriptum 
+ 
+ Chciałbym, obok tych racjonalnych argumentów, nadmienić, jak bardzo Matka Boża, już od 
+przeszło wieku, w wielu objawieniach przypomina o konieczności nawrócenia ludzkości do 
+Boga ostrzegając o konsekwencjach apokaliptycznych odrzucania wiary. Wspomnę o 
+objawieniu otrzymanym przez stygmatyka Albino Reale w 1993r., któremu Maryja ukazała 
+pięć znaków pozwalających rozpoznać „czas katastrof”. Bodajże już cztery z nich (błędy 
+fałszywych teologów, bratobójcze walki, krwawe prześladowania wiernych Chrystusowi, 
+wystąpienia przeciw wszystkiemu co wielbi Boga) można odnaleźć w opisanych wyżej 
+faktach. 
+
+ Cóż robić? Zaufać Maryi i trwać przy Chrystusie, który zwyciężył świat (J 16,33). 
+ 
+ 
+ L. K. 
+
