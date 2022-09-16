@@ -44,8 +44,8 @@ spostrzeżeniami. Będą to refleksje człowieka wierzącego, oparte na interpre
 „Bądźcie płodni i rozmnażajcie się, abyście zaludnili ziemię i uczynili ją sobie poddaną”… (Rdz 
 1,28), w którym Bóg, jakże prosto, wyraził swe oczekiwania wobec ludzkości. 
 
-
-
+'
+ 
  '2. Zniewolona wolność 
  
  Zauważmy rytm biegu wolności człowieka w dziejach. Wolności rozumianej jako zdolność 
@@ -118,7 +118,7 @@ ujrzycie to wszystko, wiedzcie, że blisko jest, we drzwiach” (Mt 24,33).
 
  Przybliżmy zatem kolejne znaki. 
  
- 
+ '
  
  '3. Stan wszechnapięcia 
  
@@ -170,7 +170,7 @@ drodze ludzkości - niezdolność do rozładowania napięć i narastających zag
 przestrzega: „Strzeżcie się, żeby was kto nie zwiódł” (Mt 24,4) w kontekście Jego przyjścia. A 
 ludzkość daje się zwieść i pogrąża w zamęcie. 
 
- 
+'
  
  '4. Posucha ducha 
  
@@ -232,7 +232,7 @@ ludzkich” (2Tm 3,2). Czyż nie tacy się stają? Przypominają się też jeszc
 Daniela o wydźwięku apokaliptycznym: „Od czasu, gdy zostanie zniesiona codzienna ofiara 
 zapanuje ohyda ziejąca pustką” (Dn 12,11). 
 
-
+'
 
  '5. Sygnały ziemi 
  
@@ -279,7 +279,7 @@ głód i zaraza”…(Łk 21,11) znak ten nabiera znamion Bożego ostrzeżenia. 
 apokaliptycznego wstrząsu? I czy można je pominąć wobec niemniej wyraźnych znaków 
 zniewolenia, napięcia i usychania ducha? 
 
-
+'
 
  '6. Refleksje 
  
@@ -317,8 +317,8 @@ tego świadomi.
 
  Leszek Kotlarski, Kraków, dn. 01.05.2022 
  
- 
- 
+'
+
  Postscriptum 
  
  Chciałbym, obok tych racjonalnych argumentów, nadmienić, jak bardzo Matka Boża, już od 
