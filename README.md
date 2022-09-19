@@ -13,13 +13,15 @@ Jeśli Cię zainteresuję, czy to pozytywnie, czy negatywnie, miło mi będzie r
 
 Leszek Kotlarski
 
+te;. 48 12 623 78 88
+
 _______________________________________________________________________________________________
 
- ZAPLĄTANY  ŚWIAT
+                                      ZAPLĄTANY  ŚWIAT
  
- CZYLI 
+                                           CZYLI 
  
- ZWROT KU DRODZE DO KRESU CZASÓW 
+                              ZWROT KU DRODZE DO KRESU CZASÓW 
  
  '1. Wprowadzenie 
  
