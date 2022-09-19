@@ -13,7 +13,7 @@ Jeśli Cię zainteresuję, czy to pozytywnie, czy negatywnie, miło mi będzie r
 
 Leszek Kotlarski
 
-te;. 48 12 623 78 88
+tel. 48 12 623 78 88
 
 _______________________________________________________________________________________________
 
